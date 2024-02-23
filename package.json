@@ -1,11 +1,16 @@
 {
   "name": "dev-html-me-something",
   "version": "1.0.0",
-  "description": "## Assignment Requirements",
-  "main": "jest.config.js",
+  "description": "intro to prof web dev assignment 4",
+  "main": "grading.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+   "devDependencies": {
+      "@testing-library/jest-dom": "^5.17.0",
+      "jest": "^29.7.0",
+      "jest-environment-jsdom": "^29.7.0"
+   }
 }
