@@ -183,15 +183,6 @@
     border-bottom: 1px solid #333333;
   }
   
-  .award .award-list {
-    margin-left: 0px;
-  }
-  
-  .award .award-list li:first-child {
-    font-size: 0.9375em;
-    color: #8c8c8c;
-  }
-  
   .skills .skill-list {
     margin-left: 0px;
   }
@@ -203,4 +194,5 @@
   
   .quote {
     background: url(../img/bg.jpg);
-    padding: 20px 
+    padding: 20px 10px; /* 20px top/bottom padding, 10px left/right padding */
+  }
