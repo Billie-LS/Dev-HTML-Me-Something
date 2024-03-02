@@ -25,12 +25,20 @@
     transition: all 0.2s ease-in-out;
   }
   
+  #about {
+    color: black 
+  }
+
   .container {
     margin: auto;
     max-width: 662px;
     padding: 0 20px;
   }
-  
+
+  .funParagraph {
+    color: green
+  }
+
   @media only screen and (max-width: 767px) {
     .intro img {
       display: block;
@@ -197,3 +205,5 @@
     background: url(../img/bg.jpg);
     padding: 20px 10px; /* 20px top/bottom padding, 10px left/right padding */
   }
+
+  
