@@ -68,8 +68,6 @@ body {
     padding: 10px; 
 } */
 
-
-
 h1, h2, h3, h4, h5, h6 {
     font-family: "Playfair Display SC", serif;
     color: #333333;
@@ -179,9 +177,6 @@ a:hover {
     color: green; /* styling, as required */
     font-size: 16px; /* styling */
 }
-
-
-
 
 .main-nav {
     background: #f4f4f4;
